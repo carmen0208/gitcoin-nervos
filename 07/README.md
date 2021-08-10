@@ -1,7 +1,6 @@
 ### Screenshots or video of your application running on Godwoken.
 
-demo
-![demo](https://recordit.co/Mnv5YLtM6M)
+demo : https://recordit.co/Mnv5YLtM6M
 
 ![node](../resource/07/CKB-resultPage.png)
 
